@@ -4,12 +4,10 @@
   
 - 🌐 Student of Computer Networks 
 - 🔐 Passionate about Cybersecurity
-- 📖 My blog [yw4rf.verecel.app](https://yw4rf.vercel.app/)  
+- 📖 My blog [yw4rf.verecel.app](https://fi0rw.vercel.app/)  
 - 📬 Contact:
   - ✉️ Email: `echo 'eXc0cmZAcHJvdG9ubWFpbC5jb20K' | base64 -d`
-  - 📬 Telegram: [t.me/yw4rf](https://t.me/yw4rf)
-  - 🐦 X: [x.com/Yw4rf](https://x.com/Yw4rf)
-   
+  - 📬 Telegram: [t.me/yw4rf](https://t.me/yw4rf)   
 </div>
 
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Yw4rf.png" width="300" />
