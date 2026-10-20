@@ -1,4 +1,4 @@
-# Tobias Fioroni 👋
+# Tobias Fioroni
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tob%C3%ADas%20Fioroni-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/tobias-fioroni)
 [![Blog](https://img.shields.io/badge/Blog-fi0rw.vercel.app-000000?style=flat-square&logo=vercel)](https://fi0rw.vercel.app)
@@ -6,17 +6,16 @@
 
 ---
 
-### 👨‍💻 Sobre mí
-
 Estudiante avanzado de **Redes Informáticas** y **Ciberdefensa** apasionado por la infraestructura IT, la administración de sistemas y la seguridad de la información. Me enfoco en el soporte técnico avanzado, resolución de incidentes, implementación de entornos Active Directory y buenas prácticas bajo arquitectura Zero Trust.
 
 - 🎓 **Carreras en curso:**
   - **Licenciatura en Ciberdefensa** — *Universidad de la Defensa Nacional (UNDEF)* | Título intermedio: *Analista en Gestión de Riesgos Cibernéticos*.
   - **Tecnicatura Universitaria en Redes Informáticas** — *Universidad Nacional del Oeste (UNO)*.
+- **Capacitación en Soporte IT (168 hs)** — Novatium / Pampa Energía / Fundación Pescar  
+  *Gestión de incidentes y requerimientos (ITIL/ITSM), InvGate, troubleshooting, redes, ciberseguridad e IA aplicada a soporte.*
+- **Cisco Certified Network Associate (CCNA 200-301)** — Cisco *(En preparación)*
 
 ---
-
-### 🛠️ Habilidades Técnicas y Dominios de Conocimiento
 
 | Dominio | Competencias y Herramientas |
 | :--- | :--- |
@@ -28,16 +27,6 @@ Estudiante avanzado de **Redes Informáticas** y **Ciberdefensa** apasionado por
 | **Idiomas** | **Español** (Nativo) · **Inglés** (Intermedio: Lectura fluida y documentación técnica). |
 
 ---
-
-### 🎓 Formación & Cursos
-
-- **Capacitación en Soporte IT (168 hs)** — Novatium / Pampa Energía / Fundación Pescar  
-  *Gestión de incidentes y requerimientos (ITIL/ITSM), InvGate, troubleshooting, redes, ciberseguridad e IA aplicada a soporte.*
-- **Cisco Certified Network Associate (CCNA 200-301)** — Cisco *(En preparación)*
-
----
-
-### 📬 ¿Conectamos?
 
 - 🌐 Blog / Portfolio: [fi0rw.vercel.app](https://fi0rw.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/tobias-fioroni](https://linkedin.com/in/tobias-fioroni)
