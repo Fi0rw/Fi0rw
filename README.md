@@ -33,7 +33,3 @@ Estudiante avanzado de **Redes Informáticas** y **Ciberdefensa** apasionado por
 - ✉️ Email: [tobigfioroni@gmail.com](mailto:tobigfioroni@gmail.com)
 
 ---
-
-<p align="center">
-  <i>"La curiosidad y la práctica constante son la base de la ciberseguridad y la administración de redes."</i>
-</p>
