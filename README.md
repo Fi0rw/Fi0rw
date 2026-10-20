@@ -1,4 +1,4 @@
-# ¡Hola! Soy Tobias Fioroni 👋
+# Tobias Fioroni 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tob%C3%ADas%20Fioroni-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/tobias-fioroni)
 [![Blog](https://img.shields.io/badge/Blog-fi0rw.vercel.app-000000?style=flat-square&logo=vercel)](https://fi0rw.vercel.app)
